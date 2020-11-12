@@ -4,7 +4,7 @@
   * 나의 홈페이지 주소 :______
 
 ### 시각화 프로젝트
-  * IAIS 데이처 분석해보기 - [LINK] (https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+  * IAIS 데이처 분석해보기 - [LINK](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
 
 ## 케글 데이터 분석 대회 참여
    * 데이터 대회 링크 :
